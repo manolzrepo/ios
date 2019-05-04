@@ -12,14 +12,13 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate</package>
+		<package></package>
 	</dependencies>
 	<descriptionlist>
-		<description>Add percentage labels to control center volume/brightness</description>
+		<description>Add percentage labels to control center volume and brightness</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<version>1.0.0</version>
 		<change>Add iOS12 and A12 support</change>
 	</changelog>
 	<links>
