@@ -1,0 +1,31 @@
+<package>
+	<id>com.manolz.sugarcane</id>
+	<name>SugarCane12</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Add percentage labels to control center volume/brightness</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<version>1.0.0</version>
+		<change>Add iOS12 and A12 support</change>
+	</changelog>
+	<links>
+		<link>
+			<name>manolzrepo</name>
+			<url>https://manolzrepo.github.io/ios/</url>
+		</link>
+	</links>
+</package>
